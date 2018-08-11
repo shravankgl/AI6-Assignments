@@ -12,7 +12,7 @@ def sigmoid(x):
 
 def tanh(x):
   # enter code below
-  return((2/(1 + numpy.exp(-2x)))-1)
+  return((2/(1 + numpy.exp(-2*x)))-1)
 
 def relu(x):
   # entr code below
